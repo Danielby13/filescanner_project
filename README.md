@@ -1,4 +1,4 @@
-#File Scanner program - automatic crop and convert image color 
+# File Scanner program - automatic crop and convert image color 
 The following options allowed in the program: 
 ```
 1) crop and convert to black & white 
@@ -27,6 +27,6 @@ To run "Scanner.py" script:
 terminal:   .../[folder path]/python Scanner.py
 ```
 
-##Authors
+## Authors
 Daniel Ben Yair - 204469118
 Inbal Altan - 201643459
