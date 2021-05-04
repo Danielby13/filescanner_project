@@ -28,5 +28,5 @@ terminal:   .../[folder path]/python Scanner.py
 ```
 
 ## Authors
-Daniel Ben Yair - 204469118
-Inbal Altan - 201643459
+* Daniel Ben Yair
+* Inbal Altan
